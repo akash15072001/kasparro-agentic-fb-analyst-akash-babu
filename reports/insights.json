@@ -1,0 +1,10 @@
+[
+  {
+    "id": "h1",
+    "hypothesis": "impressions vs ctr correlation",
+    "evidence": {
+      "pearson_r": 0.5418951418303913,
+      "p_value": null
+    }
+  }
+]

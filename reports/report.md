@@ -1,0 +1,21 @@
+# Report
+Task: Analyze ROAS drop between 2025-01-20 and 2025-02-01
+
+Summary:
+{
+  "rows": 5,
+  "date_range": [
+    "2025-01-01",
+    "2025-01-05"
+  ],
+  "total_spend": 2563.4300000000003,
+  "avg_ctr": 0.017480000000000002,
+  "roas_quantiles": {
+    "0.25": 3.01,
+    "0.5": 6.95,
+    "0.75": 11.11
+  },
+  "top_campaigns": [
+    "Men ComfortMax Launch"
+  ]
+}
